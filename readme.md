@@ -292,7 +292,6 @@ class CustomSSHClient(SSHClient):
 
 - [Paramiko文档](https://docs.paramiko.org/)
 - [SSH协议规范](https://www.ietf.org/rfc/rfc4251.txt)
-- [OpenSSH官方文档](https://man.openbsd.org/ssh)
 
 ## 📝 许可证
 
